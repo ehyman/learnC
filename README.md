@@ -1,3 +1,3 @@
 # learnC
-Hello world
-Record my everything in learning C program.
+Hello world.
+record my everything in learning C program.
