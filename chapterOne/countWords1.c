@@ -23,3 +23,4 @@ void main()
 		printf("%s%d\n", "Total input words: ", nw);
 	}
 }
+/* vim: set ts=4 sw=4 tw=0 noet :*/
