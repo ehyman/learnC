@@ -4,7 +4,7 @@
 
 void main()
 {
-	int c, t, s;
+	int c, t;
 	int state;
 
 	state = OUT;
