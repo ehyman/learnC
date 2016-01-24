@@ -1,7 +1,7 @@
 #include "stdio.h"
 #define BEGIN_CHAR '//'
 #define BEGIN_MULT_CHAR '/*'
-#define MAX_LINE 2048
+#define MAX_LINE 20480
 
 int _getAllLine(char l[], int limit);
 void _delComment(char s[], int len);
