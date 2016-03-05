@@ -1,11 +1,11 @@
 CFLAGS= -Wall -g
 
-C_FILES= inch area calc 
+CFILES= inch area calc max_input str 
 
-all:$(C_FILES)
+all:$(CFILES)
 
 make:
-	$(C_FILES)
+	$(CFILES)
 
 clean:
-	rm -rf	$(C_FILES)
+	rm -rf	$(CFILES)
